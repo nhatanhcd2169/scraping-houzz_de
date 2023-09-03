@@ -15,7 +15,6 @@ def build_path(dir: str = ""):
 
 def get_root_directory():
     sep_path = build_path().split("/")
-    print(sep_path)
     root_sep_path = sep_path[: sep_path.index('scraping-houzz_de') + 1]
     return "/".join(root_sep_path)
 
@@ -56,24 +55,32 @@ def parallelize(
         idx = 0
         output = []
         while True:
-            iterable = iterables[idx * step : (idx + 1) * step]
+            iterables_range = (idx * step, (idx + 1) * step)
+            iterable = iterables[iterables_range[0]: iterables_range[1]]
             if len(iterable):
-                for res in executor.map(function, iterable, timeout=timeout):
-                    output.append(res)
+                try:
+                    for res in executor.map(function, iterable, timeout=timeout):
+                        output.append(res)
+                except Exception as error:
+                    print('Error:', str(error))
+                    print('Error segment:', iterables_range, iterable)
+                    exit()
+
                 idx += 1
+                print('Processed', len(output), 'inputs.', 'Idle for', idle_time, 'sec')
                 time.sleep(idle_time)
             else:
                 break
         return output
 
-def get_content(base_url: str = None):
+def get_content(wait_time: float, base_url: str = None):
     def fetch(url: str):
         opts = webdriver.ChromeOptions()
         opts.add_argument("--headless")
         opts.add_argument("--log-level=OFF")
         driver = webdriver.Chrome(options=opts)
         driver.get(url)
-        WebDriverWait(driver, 10)
+        WebDriverWait(driver, wait_time)
         content = driver.page_source
         driver.close()
         return content
@@ -84,18 +91,18 @@ def get_content(base_url: str = None):
     print(url)
     return fetch(url)
 
-def scrape(url: str, output_path: str):
+def scrape(url: str, output_path: str, wait_time: float):
     with open(output_path, 'w', encoding='utf-8') as file:
-        content = get_content(url)
+        content = get_content(wait_time, url)
         file.write(content)
         return content
 
-def get_or_scrape_content(url: str, output_path: str):
+def get_or_scrape_content(url: str, output_path: str, wait_time = 10):
     if os.path.isfile(output_path):
         with open(output_path, 'r', encoding='utf-8') as file:
             content = file.read()
         if not content:
-            content = scrape(url, output_path)
+            content = scrape(url, output_path, wait_time)
     else:
-        content = scrape(url, output_path)
+        content = scrape(url, output_path, wait_time)
     return content

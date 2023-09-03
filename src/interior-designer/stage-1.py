@@ -7,8 +7,10 @@ import const
 URL = const.URL
 NAME = const.NAME
 ROOT_DIR = utils.get_root_directory()
-HTML_DIR = f'{ROOT_DIR}/out/html/{NAME}'
-JSON_DIR = f'{ROOT_DIR}/out/json/{NAME}'
+HTML_DIR = f'{ROOT_DIR}/out/html/{NAME}/stage-1'
+JSON_DIR = f'{ROOT_DIR}/out/json/{NAME}/stage-1'
+
+os.makedirs(HTML_DIR, exist_ok=True)
 
 def get_page_url(content: str):
     parsed_page = bs4.BeautifulSoup(content, 'html.parser')
@@ -24,7 +26,6 @@ for idx in range(0, 40):
     if number != 0:
         url += f'/p/{number}'
     output_path = HTML_DIR
-    os.makedirs(output_path, exist_ok=True)
     filename = f'index-{idx}.html'
     print(f'getting {filename} ...')
     content = utils.get_or_scrape_content(url, output_path + '/' + filename)
