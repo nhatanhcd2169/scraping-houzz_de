@@ -1,8 +1,8 @@
-import utils
 import os
 import bs4
 import json
-import const
+import modules.utils as utils
+import modules.architekten.const as const
 
 NAME = const.NAME
 ROOT_DIR = utils.get_root_directory()
@@ -10,10 +10,6 @@ HTML_DIR = f'{ROOT_DIR}/out/html/{NAME}/stage-2'
 JSON_DIR = f'{ROOT_DIR}/out/json/{NAME}/stage-2'
 
 os.makedirs(HTML_DIR, exist_ok=True)
-
-urls = []
-with open(JSON_DIR[: JSON_DIR.index('stage-2')] + 'stage-1/urls.json', 'r', encoding='utf-8') as file:
-    urls = json.load(file)
 
 def get_info(content: str, url: str):    
     parsed_page = bs4.BeautifulSoup(content, 'html.parser')
@@ -52,12 +48,6 @@ def get_info(content: str, url: str):
     if not output['business_name']:
         print(f'Coalesced business name for `{url}`')
         output['business_name'] = title
-
-    output['name'] = (
-        output['business_name'] 
-        if 'interior' not in output['business_name'].lower()
-        else output['business_name'][:output['business_name'].lower().index('interior')].strip()
-    )
     
     output['url'] = url
     
@@ -70,9 +60,11 @@ def scrape(url: str):
     info = get_info(content, url)
     return info
 
-info = utils.parallelize(urls, scrape, idle_time=0.0)
-
-os.makedirs(JSON_DIR, exist_ok=True)
-
-with open(JSON_DIR + '/info.json', 'w', encoding='utf-8') as file:
-    json.dump(info, file, indent=4)
+def run():
+    urls = []
+    with open(JSON_DIR[: JSON_DIR.index('stage-2')] + 'stage-1/urls.json', 'r', encoding='utf-8') as file:
+        urls = json.load(file)
+    info = utils.parallelize(urls, scrape, idle_time=0.5)
+    os.makedirs(JSON_DIR, exist_ok=True)
+    with open(JSON_DIR + '/info.json', 'w', encoding='utf-8') as file:
+        json.dump(info, file, indent=4)

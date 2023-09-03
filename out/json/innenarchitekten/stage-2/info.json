@@ -1,0 +1,534 @@
+[
+    {
+        "business_name": "KOSARI interiors",
+        "phone_number": "+43 660 3533600",
+        "website": "www.kar-interiors.at",
+        "address": "Wien 1100 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/kosari-interiors-pfvwde-pf~1799832326"
+    },
+    {
+        "business_name": "INNENARCHITEKTUR VERWANDELT",
+        "phone_number": "+43 680 3035229",
+        "website": "innenarchitektur-verwandelt.com",
+        "address": "Ahornstra\u00dfe 11 Anif 5081 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/innenarchitektur-verwandelt-pfvwde-pf~1228219239"
+    },
+    {
+        "business_name": "Frau Kraus Raumdesign",
+        "phone_number": "+43 650 3098227",
+        "website": "www.fraukraus.at",
+        "address": "Landgutstra\u00dfe 17a/1/15 Linz 4040 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/frau-kraus-raumdesign-pfvwde-pf~566973915"
+    },
+    {
+        "business_name": "Wetho-Design",
+        "phone_number": "+43 676 9408308",
+        "website": "wetho_design.houzz.de",
+        "address": "Carl Appel Stra\u00dfe 9 / 8.1 Wien 1100 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/wetho-design-pfvwde-pf~61000954"
+    },
+    {
+        "business_name": "SMART LIVING GmbH",
+        "phone_number": "+43 1 5352505",
+        "website": "www.smartliving.co.at",
+        "address": "Burggasse 7-9 Wien 1070 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/smart-living-gmbh-pfvwde-pf~1453087820"
+    },
+    {
+        "business_name": "interiordesign KANTNER",
+        "phone_number": "+43 664 3079303",
+        "website": "www.interiordesign.at",
+        "address": "Rudolf-Kaspar-Gasse 50A Pfaffst\u00e4tten 2511 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/interiordesign-kantner-pfvwde-pf~438306050"
+    },
+    {
+        "business_name": "z-plan Innenarchitektur",
+        "phone_number": "+43 1 3300333",
+        "website": "www.z-plan.at",
+        "address": "Universumstrasse 42 Wien 1200 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/z-plan-innenarchitektur-pfvwde-pf~916583228"
+    },
+    {
+        "business_name": "Kosari Architekten",
+        "phone_number": "+43 699 11335546",
+        "website": null,
+        "address": "Spiegelgasse 21 Wien 1010 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/kosari-architekten-pfvwus-pf~1832607917"
+    },
+    {
+        "business_name": "Iva Kern Studio",
+        "phone_number": "+43 676 5621666",
+        "website": "ivakernstudio.at",
+        "address": "Graz 8042 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/iva-kern-studio-pfvwde-pf~1738663588"
+    },
+    {
+        "business_name": "ARENDT & WENDELIN OG",
+        "phone_number": "+43 676 6330081",
+        "website": "arendt-wendelin.at",
+        "address": "Hauptplatz 1 Gols 7122 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/arendt-und-wendelin-og-pfvwde-pf~2050866474"
+    },
+    {
+        "business_name": "GM Style - Online Einrichtungsberatung",
+        "phone_number": "+43 36245",
+        "website": "einrichtungsberatung.pro/",
+        "address": "Bad V\u00f6slau 2540 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/gm-style-online-einrichtungsberatung-pfvwde-pf~758218741"
+    },
+    {
+        "business_name": "Ideenpavillon Architektur & Einrichten GmbH",
+        "phone_number": "+43 699 17523701",
+        "website": "www.ideenpavillon.at",
+        "address": "Marchtrenk 4614 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/ideenpavillon-architektur-und-einrichten-gmbh-pfvwde-pf~27360355"
+    },
+    {
+        "business_name": "destilat Design Studio GmbH",
+        "phone_number": "+43 1 9744420",
+        "website": "destilat.at",
+        "address": "Lehargasse 10 Wien 1060 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/destilat-design-studio-gmbh-pfvwde-pf~127328180"
+    },
+    {
+        "business_name": "found' unique rooms",
+        "phone_number": "+43 662 6520090",
+        "website": "www.found.co.at",
+        "address": "Salzburg 5020 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/found-unique-rooms-pfvwde-pf~1888883467"
+    },
+    {
+        "business_name": "3rdskin architecture gmbh",
+        "phone_number": "+43 699 12641309",
+        "website": "www.3rdskin.at",
+        "address": "niederleis 2116 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/3rdskin-architecture-gmbh-pfvwde-pf~1100927803"
+    },
+    {
+        "business_name": "3rdskin architecture gmbh",
+        "phone_number": "+43 699 12641309",
+        "website": "www.3rdskin.at",
+        "address": "niederleis 2116 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/3rdskin-architecture-gmbh-pfvwde-pf~1100927803"
+    },
+    {
+        "business_name": "uniek/innenarchitektur",
+        "phone_number": "+43 676 9792346",
+        "website": "www.uniek.at",
+        "address": "Wipplingerstra\u00dfe 15/8a Wien 1010 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/uniek-innenarchitektur-pfvwde-pf~690101919"
+    },
+    {
+        "business_name": "Lust Design",
+        "phone_number": "+43 681 10787886",
+        "website": "designstudiolust.com/",
+        "address": "Carrer dels Centelles Valencia 46004 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/lust-design-pfvwus-pf~407270283"
+    },
+    {
+        "business_name": "VIENNA INTERIORS Maier&Pohl OG",
+        "phone_number": "+43 1 7104996",
+        "website": "Vienna-Interiors.at",
+        "address": "Henslerstrasse 3/10 Wien 1030 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/vienna-interiors-maierundpohl-og-pfvwus-pf~1452890856"
+    },
+    {
+        "business_name": "WohnIn Planungsb\u00fcro mit Wohnstudio GmbH",
+        "phone_number": "+43 664 8759622",
+        "website": "www.wohnin.at",
+        "address": "An der Mur 9 Vogau 8461 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/wohnin-planungsbuero-mit-wohnstudio-gmbh-pfvwde-pf~506852216"
+    },
+    {
+        "business_name": "hoi\u00b0architektur I alpine design & lifestyle",
+        "phone_number": "+43 699 17178095",
+        "website": "www.hoi-architektur.com",
+        "address": "Oberragen 3 Bruneck 39031 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/hoi\u00b0architektur-i-alpine-design-und-lifestyle-pfvwus-pf~1387968014"
+    },
+    {
+        "business_name": "StageBella",
+        "phone_number": "+43 664 5417311",
+        "website": "www.stagebella.at",
+        "address": "Altreiteregg 31 Hitzendorf 8151 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/stagebella-pfvwus-pf~722486346"
+    },
+    {
+        "business_name": "Lieblingsplan Innenarchitektur",
+        "phone_number": "+43 650 3808515",
+        "website": "www.lieblingsplan.at/",
+        "address": "\u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/lieblingsplan-innenarchitektur-pfvwde-pf~566476255"
+    },
+    {
+        "business_name": "Ina Nimmrichter Interior Design",
+        "phone_number": "+43 650 5357239",
+        "website": "www.inanimmrichter.com",
+        "address": "Bahnhofstrasse 22 A-8111 Judendorf bei Graz 8111 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/ina-nimmrichter-interior-design-pfvwus-pf~2080733533"
+    },
+    {
+        "business_name": "UNA plant - Innenarchitektur",
+        "phone_number": "+43 1 2763176",
+        "website": "una-plant.at",
+        "address": "Gentzgasse 38/12 Wien 1180 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/una-plant-innenarchitektur-pfvwde-pf~506457644"
+    },
+    {
+        "business_name": "Julife Studio",
+        "phone_number": "+43 664 3545065",
+        "website": "www.julife.at",
+        "address": "Wien 1130 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/julife-studio-pfvwru-pf~29162987"
+    },
+    {
+        "business_name": "Innenarch. Herbert Praher, MSc",
+        "phone_number": "+43 699 10408520",
+        "website": "www.praher.at",
+        "address": "Gallneukirchen A-4210 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/innenarch-herbert-praher-msc-pfvwde-pf~664925012"
+    },
+    {
+        "business_name": "GB Consulting & Coaching",
+        "phone_number": "+43 4917 688193899",
+        "website": "gbfengshui.com",
+        "address": "34134 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/gb-consulting-und-coaching-pfvwde-pf~96366161"
+    },
+    {
+        "business_name": "SD Engineering e.U.",
+        "phone_number": "+43 664 9484400",
+        "website": "www.sdengineering.eu",
+        "address": "Tuchlauben 7a Wien 1010 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/sd-engineering-e-u-pfvwde-pf~1452976124"
+    },
+    {
+        "business_name": "Interior Architects by Wohnatelier",
+        "phone_number": "+43 5356 65946",
+        "website": "www.wohnatelier.at",
+        "address": "Pass-Thurn-Stra\u00dfe 24 Oberndorf in Tirol 6372 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/interior-architects-by-wohnatelier-pfvwde-pf~1262429902"
+    },
+    {
+        "business_name": "panplan",
+        "phone_number": "+43 664 2253427",
+        "website": null,
+        "address": "St. Florian 4490 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/panplan-pfvwde-pf~93986697"
+    },
+    {
+        "business_name": "designstark e.U.",
+        "phone_number": "+43 676 7609700",
+        "website": "www.designstark.at",
+        "address": "Opernring 1 Wien 1010 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/designstark-e-u-pfvwde-pf~1547813105"
+    },
+    {
+        "business_name": "Wohndesign Marchl",
+        "phone_number": "+43 662 853225",
+        "website": "www.marchl.at",
+        "address": "Wals 5071 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/wohndesign-marchl-pfvwde-pf~279249999"
+    },
+    {
+        "business_name": "Faustmann M\u00f6belmanufaktur",
+        "phone_number": "+43 664 88341813",
+        "website": "www.schoesswender.com",
+        "address": "Ferdinand Leihs Stra\u00dfe 14 Hartberg A-8230 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/faustmann-moebelmanufaktur-pfvwus-pf~1763251507"
+    },
+    {
+        "business_name": "dutzler design",
+        "phone_number": "+43 664 4525111",
+        "website": "www.dutzler-design.at",
+        "address": "Schwanenstadt 4690 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/dutzler-design-pfvwde-pf~1260200294"
+    },
+    {
+        "business_name": "Amon Innenarchitektur GmbH",
+        "phone_number": "+43 699 19890127",
+        "website": "www.raphaelamon.at",
+        "address": "H\u00f6gelm\u00fcllergasse 15/3 Wien 1050 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/amon-innenarchitektur-gmbh-pfvwde-pf~1640441399"
+    },
+    {
+        "business_name": "artigeniale e.U.",
+        "phone_number": "+43 699 19498221",
+        "website": "artigeniale.at",
+        "address": "F\u00fcrstenweg 191 Innsbruck 6020 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/artigeniale-e-u-pfvwde-pf~1865366308"
+    },
+    {
+        "business_name": "caumannsarchitekturconcept",
+        "phone_number": "+43 681 10720942",
+        "website": "www.innenarchitekturvelden.at",
+        "address": "stauderplatz 8/3/3 klagenfurt am w\u00f6rthersee 9020 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/caumannsarchitekturconcept-pfvwde-pf~1545490441"
+    },
+    {
+        "business_name": "MUTANT Arch. Media",
+        "phone_number": "+43 6246 72262",
+        "website": "www.mutant.at",
+        "address": "Franz Josef Kai 5 Salzburg 5020 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/mutant-arch-media-pfvwde-pf~153941471"
+    },
+    {
+        "business_name": "studio th\u00f6rnblom",
+        "phone_number": "+43 680 3336375",
+        "website": "www.studio-thoernblom.at/",
+        "address": "Wei\u00dfgerberl\u00e4nde 44-46 Wien 1030 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/studio-thoernblom-pfvwde-pf~1387922006"
+    },
+    {
+        "business_name": "JB Innenarchitektur",
+        "phone_number": "+43 4367 69739378",
+        "website": "www.jb-innenarchitektur.com",
+        "address": "Kirchengasse 14-16 Tulln 3430 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/jb-innenarchitektur-pfvwde-pf~1388193258"
+    },
+    {
+        "business_name": "Johann Spatzenegger Bau- und M\u00f6beltischlerei GmbH",
+        "phone_number": "+43 4362 728105",
+        "website": "www.tischlerei-spatzenegger.at/",
+        "address": "Tischlerstra\u00dfe 22-24 St. Georgen bei Salzburg 5113 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/johann-spatzenegger-bau-und-moebeltischlerei-gmbh-pfvwde-pf~2050637590"
+    },
+    {
+        "business_name": "OH Interior Design",
+        "phone_number": "+43 664 1188275",
+        "website": "www.ohinteriordesign.net/",
+        "address": "Wien 1040 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/oh-interior-design-pfvwde-pf~690254823"
+    },
+    {
+        "business_name": "zartl",
+        "phone_number": "+43 676 4270400",
+        "website": null,
+        "address": "kufstein 6330 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/zartl-pfvwde-pf~279002699"
+    },
+    {
+        "business_name": "mg interior",
+        "phone_number": "+43 2152 06068",
+        "website": "www.mg-interior.com/",
+        "address": "Haller Stra\u00dfe 41 Innsbruck 6020 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/mg-interior-pfvwde-pf~1136091210"
+    },
+    {
+        "business_name": "Schule",
+        "phone_number": "+43 699 22031972",
+        "website": null,
+        "address": "Wien 1030 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/schule-pfvwde-pf~1352389883"
+    },
+    {
+        "business_name": "zartl",
+        "phone_number": "+43 676 4270400",
+        "website": null,
+        "address": "kufstein 6330 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/zartl-pfvwde-pf~279002699"
+    },
+    {
+        "business_name": "mg interior",
+        "phone_number": "+43 2152 06068",
+        "website": "www.mg-interior.com/",
+        "address": "Haller Stra\u00dfe 41 Innsbruck 6020 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/mg-interior-pfvwde-pf~1136091210"
+    },
+    {
+        "business_name": "valeriablack",
+        "phone_number": "+43 670 5000000",
+        "website": null,
+        "address": "wien 1120 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/valeriablack-pfvwde-pf~1888697539"
+    },
+    {
+        "business_name": "Room No9 INTERIOR | DESIGN",
+        "phone_number": "+43 676 4759018",
+        "website": "www.roomno9.at",
+        "address": "Weinz\u00f6ttlstra\u00dfe 3a Graz 8045 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/room-no9-interior-design-pfvwde-pf~1579931792"
+    },
+    {
+        "business_name": "mochiinterior",
+        "phone_number": "+43 650 6836883",
+        "website": "mochiinterior.net",
+        "address": "Fuhrmannsgasse 7 / 22 Wien 1080 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/mochiinterior-pfvwde-pf~1420372633"
+    },
+    {
+        "business_name": "Christine Buzzi Interior Design",
+        "phone_number": "+43 699 19700107",
+        "website": null,
+        "address": "Schulerstrasse 1-3/2/62 Wien 1010 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/christine-buzzi-interior-design-pfvwde-pf~665986840"
+    },
+    {
+        "business_name": "Wergles",
+        "phone_number": "+43 664 1020801",
+        "website": null,
+        "address": "Innerschwand 5311 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/wergles-pfvwde-pf~1200854576"
+    },
+    {
+        "business_name": "Wohnen & Ambiente",
+        "phone_number": "+43 4366 41020801",
+        "website": null,
+        "address": "Lehen 20b Innerschwand 5311 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/wohnen-und-ambiente-pfvwde-pf~473033597"
+    },
+    {
+        "business_name": "wohlgemuth einrichten",
+        "phone_number": "+43 664 1522911",
+        "website": "www.wohlgemuth-einrichten.at",
+        "address": "grazerstrasse 38 stainz 8510 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/wohlgemuth-einrichten-pfvwde-pf~128941136"
+    },
+    {
+        "business_name": "Bahr Architektur",
+        "phone_number": "+43 676 5266984",
+        "website": null,
+        "address": "Seesiedlung, XIII. Stra\u00dfe, 20 Hornstein 2491 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/bahr-architektur-pfvwde-pf~2016248663"
+    },
+    {
+        "business_name": "Raumdesign Wien",
+        "phone_number": "+43 699 19710008",
+        "website": null,
+        "address": "Brigittagasse 11 Wien 1200 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/raumdesign-wien-pfvwde-pf~850537710"
+    },
+    {
+        "business_name": "Spiekermann Innenarchitekt",
+        "phone_number": "+43 664 4221570",
+        "website": null,
+        "address": "- Jochberg 6373 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/spiekermann-innenarchitekt-pfvwde-pf~1101609495"
+    },
+    {
+        "business_name": "design",
+        "phone_number": "+43 699 11128984",
+        "website": null,
+        "address": "pfarrgasse 14 baden 2500 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/design-pfvwde-pf~917419604"
+    },
+    {
+        "business_name": "Engineering Architects",
+        "phone_number": "02234 34242",
+        "website": null,
+        "address": "Liezen 8960 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/engineering-architects-pfvwde-pf~1956660585"
+    },
+    {
+        "business_name": "antoniahirn",
+        "phone_number": "+43 664 75061979",
+        "website": null,
+        "address": "9909 leisach leisach 9909 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/antoniahirn-pfvwde-pf~1385752894"
+    },
+    {
+        "business_name": "Engineering Architects",
+        "phone_number": "02234 34242",
+        "website": null,
+        "address": "Liezen 8960 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/engineering-architects-pfvwde-pf~1956660585"
+    },
+    {
+        "business_name": "lisa",
+        "phone_number": "+43 699 18019900",
+        "website": null,
+        "address": "M\u00f6dling 2340 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/lisa-pfvwde-pf~220414673"
+    },
+    {
+        "business_name": "Matthias Sch\u00f6nleitner",
+        "phone_number": "+43 664 3286862",
+        "website": null,
+        "address": "- - 5500 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/matthias-schoenleitner-pfvwus-pf~2047811310"
+    },
+    {
+        "business_name": "Saskia Neubauer",
+        "phone_number": "+43 699 11074284",
+        "website": null,
+        "address": "Wien 1230 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/saskia-neubauer-pfvwde-pf~26788203"
+    },
+    {
+        "business_name": "elli",
+        "phone_number": "+43 664 555363011",
+        "website": null,
+        "address": "Wien 1030 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/elli-pfvwde-pf~1990074472"
+    },
+    {
+        "business_name": "M\u00f6bel see",
+        "phone_number": "069 918821501",
+        "website": "www.moebelsee.at",
+        "address": "Haid bei Ansfelden 4053 \u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/moebel-see-pfvwde-pf~1797543138"
+    },
+    {
+        "business_name": "design",
+        "phone_number": "+43 699 11128984",
+        "website": null,
+        "address": "pfarrgasse 14 baden 2500 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/design-pfvwde-pf~917419604"
+    },
+    {
+        "business_name": "kbi_dorf",
+        "phone_number": "+43 5354 57555",
+        "website": null,
+        "address": "Fieberbrunn 6391 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/kbi-dorf-pfvwde-pf~882741781"
+    },
+    {
+        "business_name": "kkkk",
+        "phone_number": "+43 999 99999999",
+        "website": null,
+        "address": "Wien 1090 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/kkkk-pfvwde-pf~2082294149"
+    },
+    {
+        "business_name": "studio idee",
+        "phone_number": "+43 699 19008819",
+        "website": null,
+        "address": "wien 1130 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/studio-idee-pfvwde-pf~723261522"
+    },
+    {
+        "business_name": "InteriorDesignWohlk\u00f6nig",
+        "phone_number": "+43 699 10150999",
+        "website": null,
+        "address": "Wien 1140 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/interiordesignwohlkoenig-pfvwde-pf~279064775"
+    },
+    {
+        "business_name": "Verena Heider Interior",
+        "phone_number": "+43 699 10991060",
+        "website": null,
+        "address": "\u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/verena-heider-interior-pfvwde-pf~759728149"
+    },
+    {
+        "business_name": "xxxs",
+        "phone_number": "+43 650 3808515",
+        "website": null,
+        "address": "Wieselburg 3250 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/xxxs-pfvwde-pf~1226977299"
+    },
+    {
+        "business_name": "Wohnhaus Grill@Ronacher",
+        "phone_number": "11066470",
+        "website": null,
+        "address": "Bad Aussee 8990 \u00d6sterreich",
+        "url": "https://www.houzz.de/experten/innenarchitekten/wohnhaus-grillronacher-pfvwde-pf~1293930173"
+    },
+    {
+        "business_name": "Verena Heider Interior",
+        "phone_number": "+43 699 10991060",
+        "website": null,
+        "address": "\u00d6sterreich",
+        "url": "https://www.houzz.de/hznb/experten/innenarchitekten/verena-heider-interior-pfvwde-pf~759728149"
+    }
+]
