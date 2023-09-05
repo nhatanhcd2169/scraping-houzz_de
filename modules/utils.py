@@ -13,9 +13,9 @@ def build_path(dir: str = ""):
     return path.replace("\\", "/")
 
 
-def get_root_directory():
+def get_root_directory(root_name='scraping-houzz_de'):
     sep_path = build_path().split("/")
-    root_sep_path = sep_path[: sep_path.index('scraping-houzz_de') + 1]
+    root_sep_path = sep_path[: sep_path.index(root_name) + 1]
     return "/".join(root_sep_path)
 
 
